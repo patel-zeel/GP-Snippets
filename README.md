@@ -1,1 +1,1 @@
-Code snippents for copy pasting
+Code snippets for copy pasting
